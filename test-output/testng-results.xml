@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16869" started-at="2022-09-03T18:55:47Z" finished-at="2022-09-03T18:56:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16869" started-at="2022-09-03T18:55:47Z" finished-at="2022-09-03T18:56:04Z">
+      <class name="test.AddCustomerTest">
+        <test-method status="PASS" signature="validUserShouldBeAbleToAddCustomer()[pri:0, instance:test.AddCustomerTest@5136d012]" name="validUserShouldBeAbleToAddCustomer" duration-ms="16806" started-at="2022-09-03T18:55:47Z" finished-at="2022-09-03T18:56:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validUserShouldBeAbleToAddCustomer -->
+      </class> <!-- test.AddCustomerTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
